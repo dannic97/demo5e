@@ -1,0 +1,14 @@
+{
+    
+    "id": "demo5e",
+    "title": "DnD5e - Demo System",
+    "description": "A system for testing and developing modules and game systems.",
+    "version": "0.0.1",
+    "compatibibility": {
+        "minimum": "10.303",
+        "verified": "11"
+    },
+    "url": "...",
+    "manifest": "...",
+    "download": ""
+}
